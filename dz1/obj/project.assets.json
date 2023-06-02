@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GB\\5.Знакомство с языками программирования\\Семинары\\Семинар 3\\G\\dz1\\dz1.csproj",
+      "projectUniqueName": "D:\\GB\\5.Знакомство с языками программирования\\Семинары\\Семинар 3\\1\\seminar3\\dz1\\dz1.csproj",
       "projectName": "dz1",
-      "projectPath": "D:\\GB\\5.Знакомство с языками программирования\\Семинары\\Семинар 3\\G\\dz1\\dz1.csproj",
+      "projectPath": "D:\\GB\\5.Знакомство с языками программирования\\Семинары\\Семинар 3\\1\\seminar3\\dz1\\dz1.csproj",
       "packagesPath": "C:\\Users\\ivan.odobesko\\.nuget\\packages\\",
-      "outputPath": "D:\\GB\\5.Знакомство с языками программирования\\Семинары\\Семинар 3\\G\\dz1\\obj\\",
+      "outputPath": "D:\\GB\\5.Знакомство с языками программирования\\Семинары\\Семинар 3\\1\\seminar3\\dz1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ivan.odobesko\\AppData\\Roaming\\NuGet\\NuGet.Config"

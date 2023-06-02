@@ -11,7 +11,12 @@ int E = H%10;
 // Console.WriteLine(D);
 // Console.WriteLine(E);
 
-if (A==E && B==D)
+if (H<10000 || H>99999)
+{
+    Console.WriteLine("Введено неверное число");
+}
+
+else if (A==E && B==D)
 {
     Console.WriteLine("Палиндром");
 }
